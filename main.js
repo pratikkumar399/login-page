@@ -7,7 +7,7 @@
 // ul.lastElementChild.innerHTML = '<h1>Hello</h1>';
 
 const btn = document.querySelector('.btn');
-btn.style.background = 'red';
+btn.style.background = 'green';
 
 function goBack() {
     window.history.back()
